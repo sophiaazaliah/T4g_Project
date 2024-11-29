@@ -1025,6 +1025,11 @@ footer {
     }
 }
 
+.divimg{
+    display: flex;
+    justify-content: space-between;
+   
+}
 
 
 body {
